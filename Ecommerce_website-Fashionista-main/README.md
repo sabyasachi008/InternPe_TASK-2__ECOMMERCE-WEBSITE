@@ -13,7 +13,6 @@ Create an account or log in to access additional features.
 Browse products, add them to your cart, and proceed to checkout.
 If you are an administrator, log in to the admin panel to manage products, orders, and users.
 Contributing
-We welcome contributions to enhance the functionality and usability of this e-commerce website. If you'd like to contribute, please follow these steps:
 
 **License**
 This project is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
