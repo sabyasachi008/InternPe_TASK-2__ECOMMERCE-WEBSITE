@@ -1,10 +1,9 @@
-**#E-commerce Website**
+**E-COMMERCE WEBSITE**
 This is an e-commerce website built with JavaScript, CSS, and HTML. It provides a platform for users to browse, search for, and purchase products online.
 
 **Table of Contents**
-Features
-Installation
 Usage
+Liscence
 Contributing
 
 
